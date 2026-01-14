@@ -1,152 +1,182 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "沈硕 (Shuo Shen)",
+    "email": "svenshen@tencent.com",
+    "phone": "+86 18745029162",
+    "website": "https://hyperion-shuo.github.io",
+    "summary": "游戏 AI 工程师，专注于强化学习算法在游戏领域的应用研究。目前就职于腾讯 IEG，主要研究方向包括大规模分布式强化学习、多智能体系统、游戏 AI 等。",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "上海",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Hyperion-shuo",
+        "url": "https://github.com/Hyperion-shuo"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "腾讯 IEG",
+      "position": "游戏 AI 工程师（应用研究方向）",
+      "website": "",
+      "startDate": "2023-10",
+      "endDate": "至今",
+      "summary": "负责篮球游戏 AI、TTS 语音合成、画质配置推荐、智能 QA 助手等项目的研发工作",
+      "highlights": []
+    },
+    {
+      "company": "网易游戏 AI Lab",
+      "position": "强化学习算法工程师",
+      "website": "",
+      "startDate": "2022-05",
+      "endDate": "2023-09",
+      "summary": "负责大规模 SLG 游戏 AI 的开发与部署",
+      "highlights": []
+    },
+    {
+      "company": "网易游戏 AI Lab",
+      "position": "强化学习算法实习生",
+      "website": "",
+      "startDate": "2021-06",
+      "endDate": "2021-09",
+      "summary": "参与强化学习相关项目的研发",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "北京交通大学",
+      "area": "计算机科学与技术",
+      "studyType": "硕士",
+      "startDate": "2019-09",
+      "endDate": "2022-04",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "哈尔滨工业大学",
+      "area": "数字媒体技术",
+      "studyType": "本科",
+      "startDate": "2015-09",
+      "endDate": "2019-05",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "awards": [
+    {
+      "title": "KDD CUP 强化学习赛道：网约车订单派送与调度任务",
+      "date": "2020",
+      "awarder": "KDD",
+      "summary": "第6名/150支队伍"
+    },
+    {
+      "title": "SMARTS DAI 自动驾驶单智能体赛道",
+      "date": "2020",
+      "awarder": "SMARTS",
+      "summary": "第7名/70支队伍"
+    },
+    {
+      "title": "CoG FightingICE 格斗游戏 AI 竞赛",
+      "date": "2021",
+      "awarder": "IEEE CoG",
+      "summary": "冠军 (1/15)"
+    },
+    {
+      "title": "CoG Google Research Football 多智能体 AI 竞赛",
+      "date": "2022",
+      "awarder": "IEEE CoG",
+      "summary": "冠军 (1/20)"
+    },
+    {
+      "title": "IJCAI AI 奥林匹克竞赛",
+      "date": "2023",
+      "awarder": "IJCAI",
+      "summary": "冠军 (1/40, 口头报告)"
+    },
+    {
+      "title": "CoG Google Research Football 多智能体 AI 竞赛",
+      "date": "2023",
+      "awarder": "IEEE CoG",
+      "summary": "亚军 (2/20)"
+    }
+  ],
+  "skills": [
+    {
+      "name": "强化学习算法",
+      "level": "专家",
+      "keywords": ["大规模分布式 RL 系统", "Self-Play", "Model-based RL", "Multi-agent RL", "Offline RL", "RLHF", "RLVR"]
+    },
+    {
+      "name": "深度学习",
+      "level": "熟练",
+      "keywords": ["Transformer", "LLMs"]
+    },
+    {
+      "name": "编程语言",
+      "level": "熟练",
+      "keywords": ["Python", "C", "PyTorch", "TensorFlow"]
+    },
+    {
+      "name": "开发工具",
+      "level": "熟练",
+      "keywords": ["Git", "Linux", "VS Code"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Diversity is Strength: Mastering Football Full Game with Interactive Reinforcement Learning of Multiple AIs",
+      "publisher": "Arxiv",
+      "releaseDate": "2023",
+      "website": "https://arxiv.org/abs/2306.15903",
+      "summary": "Chenglu Sun, Shuo Shen, Sijia Xu, Weidong Zhang"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Enhancing Off-Policy Constrained Reinforcement Learning through Adaptive Ensemble C Estimation",
+      "publisher": "AAAI 2024",
+      "releaseDate": "2024",
+      "website": "https://ojs.aaai.org/index.php/AAAI/article/view/30177",
+      "summary": "Hengrui Zhang, Youfang Lin, Shuo Shen, Sheng Han, Kai Lv"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Enhancing AI-Bot Strength and Strategy Diversity in Adversarial Games: A Novel Deep Reinforcement Learning Framework",
+      "publisher": "IEEE ToG 2024",
+      "releaseDate": "2024",
+      "website": "https://ieeexplore.ieee.org/document/10812583",
+      "summary": "Chenglu Sun, Shuo Shen, Wenzhi Tao, Deyi Xue, Zixia Zhou"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Noise-Resilient Symbolic Regression with Dynamic Gating Reinforcement Learning",
+      "publisher": "AAAI 2025 (Oral)",
+      "releaseDate": "2025",
+      "website": "https://arxiv.org/abs/2501.01085",
+      "summary": "Chenglu Sun, Youfang Lin, Shuo Shen, Wenzhi Tao, Deyi Xue, Zixia Zhou"
+    },
+    {
+      "name": "Enhancing Offline Safe Reinforcement Learning with Trajectory-Constrained Diffusion Planning",
+      "publisher": "AAMAS 2025 (Extended Abstracts)",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Hengrui Zhang, Youfang Lin, Shuo Shen, Hanfeng Lin, Peng Cheng, Sheng Han, Kai Lv"
+    },
+    {
+      "name": "Complex Instruction Following with Diverse Style Policies in Football Games",
+      "publisher": "AAAI 2026",
+      "releaseDate": "2025",
+      "website": "https://lcdsp-webpage.github.io/LCDSP/",
+      "summary": "Chenglu Sun, Shuo Shen, Haonan Hu, Wei Zhou, Chen Chen"
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
