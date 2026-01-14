@@ -7,8 +7,6 @@ author_profile: true
 
 ## Competition Awards
 
-<div class="awards-list">
-
 ### 2023
 - **🥇 1st Place** - IJCAI AI Olympics Competition (1/40, Oral Presentation)
 - **🥈 2nd Place** - IEEE CoG Google Research Football Multi-Agent AI Competition (2/20)
@@ -22,8 +20,6 @@ author_profile: true
 ### 2020
 - **🏅 6th Place** - KDD CUP Reinforcement Learning Track: Ride-hailing Order Dispatching (6/150)
 - **🏅 7th Place** - SMARTS DAI Autonomous Driving Single-Agent Track (7/70)
-
-</div>
 
 ---
 
